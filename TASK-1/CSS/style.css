@@ -1,0 +1,226 @@
+.headerOne {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 15px;
+  height: 30px;
+  justify-content: space-evenly;
+}
+
+.info {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: space-evenly;
+  width: 400px;
+  margin-top: 5px;
+}
+.langMoneyContainer {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: space-evenly;
+  width: 180px;
+  margin-top: 5px;
+}
+.needhelps {
+  display: flex;
+  margin-top: 5px;
+}
+
+.logoContainer {
+  display: flex;
+  flex: wrap;
+  flex-direction: row;
+}
+.searchBox {
+  display: flex;
+  height: 60px;
+  width: 600px;
+  border: solid;
+  border-width: 2px;
+  border-radius: 30px;
+  margin-left: 150px;
+  margin-top: 60px;
+}
+
+.fa-heart {
+  display: flex;
+  font-size: 50px;
+  color: #65c633;
+}
+
+.fa-cart-shopping {
+  display: flex;
+  font-size: 60px;
+  color: rgb(68, 68, 236);
+}
+
+.fa-message {
+  display: flex;
+  font-size: 60px;
+  color: #65c633;
+}
+.para {
+  display: flex;
+  font-size: 25px;
+  margin-left: 20px;
+  margin-top: 15px;
+}
+
+.items {
+  display: flex;
+  flex: wrap;
+  margin-top: 65px;
+  margin-left: 80px;
+}
+.logoName {
+  display: flex;
+  font-size: 80px;
+  color: #65c633;
+  margin-top: 45px;
+}
+.fa-cart-shopping {
+  margin-left: 30px;
+}
+.fa-message {
+  margin-left: 30px;
+}
+.browseButton {
+  display: flex;
+  margin-top: 20px;
+  width: 350px;
+  height: 60px;
+  background-color: #65c633;
+  border: none;
+  border-radius: 10px;
+  margin-left: 20px;
+}
+.para1 {
+  display: flex;
+  font-size: 28px;
+  color: white;
+  margin-top: 10px;
+  margin-left: 40px;
+}
+.fa-bars {
+  display: flex;
+  color: blue;
+  font-size: 30px;
+  margin-left: 20px;
+  margin-top: 15px;
+}
+.header3 {
+  display: flex;
+
+  flex-wrap: wrap;
+}
+.header3Container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.categoryListContainer {
+  display: flex;
+  flex-wrap: wrap;
+  width: 700px;
+  justify-content: space-evenly;
+  margin-top: 40px;
+  font-size: 28px;
+  margin-left: 100px;
+}
+.accountContainer {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 40px;
+  margin-left: 200px;
+}
+.accountInfoContainer {
+  margin-left: 20px;
+}
+.fa-user {
+  display: flex;
+  font-size: 30px;
+  margin-top: 5px;
+}
+.signin {
+  display: flex;
+  font-size: 20px;
+}
+
+.hr1 {
+  display: flex;
+  margin-top: 40px;
+}
+
+.product1 {
+  display: flex;
+  width: 900px;
+  height: 600px;
+  background-color: lemonchiffon;
+  margin-top: 50px;
+}
+
+.qualityButton1 {
+  display: flex;
+  background-color: #65c633;
+  color: white;
+  width: 250px;
+  height: 50px;
+  font-size: 23px;
+  border: none;
+  border-radius: 5px;
+  margin-top: 50px;
+  margin-left: 60px;
+  
+}
+.qualityPara {
+  display: flex;
+  margin-top: 10px;
+}
+.ProductName{
+  display: flex;
+  font-size: 70px;
+  width: 700px;
+  margin-top: 40px;
+  margin-left: 25px;
+}
+.productDescription{
+  display: flex;
+  font-size: 25px;
+  margin-top: 20px;
+  margin-left: 25px;
+}
+.productPrice{
+  display: flex;
+  font-size: 70px;
+  margin-left: 35px;
+  margin-top: 25px;
+}
+.originalPrice{
+  display: flex;
+  font-size: 30px;
+  margin-top: 20px;
+  margin-left: 15px;
+
+
+}
+.bodyContainer{
+  display:inline-flex;
+}
+.product2{
+  background-color: rgb(190,255,255);
+  margin-top:50px ;
+  margin-left: 80px;
+}
+.productImage{
+  position:absolute;
+  margin-bottom:30px ;
+  margin-left: 600px;
+margin-top: 150px;  
+
+}
+.productthermometerImage{
+  position: absolute;
+  margin-left: 1400px;
+  margin-top: 200px;
+}
